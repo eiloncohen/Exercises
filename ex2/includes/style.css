@@ -22,6 +22,7 @@ body
 
 header,
 footer{
+    margin-top: 58px;
     width: 100%;
 }
 

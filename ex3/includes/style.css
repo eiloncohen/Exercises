@@ -3,6 +3,8 @@
     padding: 0px;
 }
 
+
+
 main, nav, article, aside, section, header,
 footer { display:block; }
 
@@ -14,6 +16,7 @@ body{ font-family: Arial; width: 100%}
 
 a{
     text-decoration: none;
+    color: #000000;
 }
 #layout1 header{
 width: 100%;

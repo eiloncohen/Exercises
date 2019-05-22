@@ -1,0 +1,60 @@
+label{
+    display: block;
+    color: black;
+    font-family: 'Noto Sans', sans-serif;
+}
+h1{
+    font-family: 'Indie Flower', cursive;
+}
+.form-control{
+   display: inline;
+   width: 30%;  
+}
+
+#move_left_cof{
+    margin-left: 491.78px
+}
+
+#move_left_tem{
+    margin-left:205.9px;
+}
+
+#move_left_other{
+    margin-left: 60px;
+}
+#wrapper{
+    width: 900px;
+    margin: 0 auto;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.smile{
+    background:url(/includes/imgs/face.svg) no-repeat; 
+    width: 200px;
+    height: 200px;
+    float: right;
+    margin-top: -550px;
+}
+
+.svg{
+    float: right;
+    margin-top: 0px;
+}
+
+#move_top{
+    margin-top:20px ;
+}
+.clear{
+    clear: both;
+}
+aside{
+    float: left;
+    background-color: aqua;
+    width: 60px;
+    height: 1325px;
+}
+/* ניסוי      */
+
+
+     
